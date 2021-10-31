@@ -1,0 +1,26 @@
+# IDE and Text Editor Files
+/.vs
+/.vscode
+/.idea
+
+# Visual Studio
+/bin
+*.obj
+*.pdb
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+# Binaries
+*.exe
+*.dll
+*.lib
+*.a
+
+# Compiled Headers
+*.gch
+
+# cmake
+/build
+/cmake-build-debug
+/cmake-build-release
